@@ -1,1 +1,1 @@
-# OREL Notepad 1.1
+# OREL Notepad 1.2
